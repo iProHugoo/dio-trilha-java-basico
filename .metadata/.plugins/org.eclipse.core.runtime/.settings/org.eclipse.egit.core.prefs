@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\workspace\\dio-trilha-java-basico\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\workspace\\dio-trilha-java-basico\\.git;C\:\\workspace\\dio-trilha-java-basico\\dio-trilha-java-basico\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\workspace\\dio-trilha-java-basico\\.git;.git;
 RepositorySearchDialogSearchPath=C\:\\workspace\\dio-trilha-java-basico
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
